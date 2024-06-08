@@ -1,4 +1,4 @@
 # Table of contents
 
-* [I. Capitulum Primum](README.md)
+* [I. Capitulum Primum](i.-capitulum-primum.md)
 * [II. Captiulum secundum](ii.-captiulum-secundum.md)
